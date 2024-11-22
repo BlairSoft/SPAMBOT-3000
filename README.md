@@ -1,4 +1,4 @@
-General purpose spambot designed to keep my account active on the FTL site while I slept.
+General purpose spambot designed to keep my account active on the FTL site while I sleep
 
 Load whatever text file you want, make sure the settings you want are correct, hit start and in 5 seconds the script will begin outputting chunks of text at the selected size at the selected rate
 
