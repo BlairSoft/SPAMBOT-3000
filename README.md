@@ -8,4 +8,8 @@ Repeat is turned off by default, repeat just keeps going after the file has been
 
 Clipboard mode is a more manual version, when enabled it will cycle a new block of text into your clipboard every time you press ctrl+v
 
+This was written ENTIRELY by prompting ChatGPT, it took over 100 prompts to get it to this point.
+
+I am not a programmer, this will likely include innefficient uses of code, I wouldnt' know any different
+
 :)
