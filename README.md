@@ -10,6 +10,6 @@ Clipboard mode is a more manual version, when enabled it will cycle a new block 
 
 This was written ENTIRELY by prompting ChatGPT, it took over 100 prompts to get it to this point.
 
-I am not a programmer, this will likely include innefficient uses of code, I wouldnt' know any different
+I am not a programmer, this will likely include innefficient uses of code, I wouldn't know any different
 
 :)
